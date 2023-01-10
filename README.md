@@ -44,5 +44,5 @@ OTG Short URL yippeee relinker
  - depends on os team[s] supporting it.
 
 ## Billing:
- - Ooooh that'll be a fun one. Admin/DB hosts would be $30-40/mo on 3yr agreement, web servers may want to scal, but probably similar.  2x web + 1 db per location, and geoip dns, divide by number of products using it, etc.
+ - Ooooh that'll be a fun one. Admin/DB hosts would be $30-40/mo on 3yr agreement, web servers may want to scale based on traffic, but probably similar.  2x web + 1 db per location, one main admin/db host, and geoip dns, divide by number of products using it, etc.
 
