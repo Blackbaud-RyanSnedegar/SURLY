@@ -13,7 +13,7 @@ OTG Short URL yippeee relinker
 ## Which software to use?
  - POLR: https://github.com/Antelope-Valley-College/polr
  - BIY: https://realpython.com/build-a-python-url-shortener-with-fastapi/ and others
- - Some other third thing
+ - Some other third thing https://github.com/YOURLS/YOURLS
 
 ## API?
  - yes.
