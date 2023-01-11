@@ -9,7 +9,8 @@ OTG Short URL yippeee relinker
  - ladmin.$domain/ for admin.
  - for full implementation we should use geoip DNS.
  - for full implementation, SSL
- 
+ - should be able to handle multiple domains [via api]
+
 ## Which software to use?
  - POLR: https://github.com/Antelope-Valley-College/polr
  - BIY: https://realpython.com/build-a-python-url-shortener-with-fastapi/ and others
