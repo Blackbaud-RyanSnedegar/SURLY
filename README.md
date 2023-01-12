@@ -36,6 +36,7 @@ OTG Short URL yippeee relinker
 
 ## Security?
  - Admin interface should be restricted to VPN endpoint ip ranges for access.
+ - API interface should be restricted to product ip ranges.
  - harden vm's to current standards for cloud hosts.
 
 ## Logs:
