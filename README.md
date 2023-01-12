@@ -18,15 +18,16 @@ OTG Short URL yippeee relinker
 ## API?
  - admin-server hosted, not on every web server.
  - add, delete, stats calls if possible?
- - API key tied to single domain. 
+ - API user or key tied to single domain. 
 
 ## UI pages?
  - login page (tie into AD)
  - main link page (create a new link, edit a link)
  - admin page (default shows basic stats, click to api key mgmt, domains)
- - api key management page (default shows list, click to add, edit, remove, blacklist)
+ - api management page (default shows list, click to add, edit, remove, blacklist, whitelist)
  - domain page (default shows list, click to add, edit, remove)
  - blacklist page (default shows blocked keywords/domains, click to add, edit, remove)
+ - whitelist page (default shows list of ranges, click to add, edit, remove)
 
 ## where to run?
  - best bet, azure vm's.  
